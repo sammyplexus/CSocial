@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fe83d289aa6f79e2ea80abc71c06f9581d3b3aab
 apply plugin: 'com.android.application'
 
 android {
@@ -59,6 +62,7 @@ dependencies {
    compile 'com.android.support:design:22.2.0'
     compile 'com.pushbots:pushbots-lib:2.0.13@aar'
     compile 'com.android.support:support-v4:22.2.0'
+<<<<<<< HEAD
 =======
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
@@ -79,4 +83,6 @@ allprojects {
         jcenter()
     }
 >>>>>>> Hello
+=======
+>>>>>>> fe83d289aa6f79e2ea80abc71c06f9581d3b3aab
 }
