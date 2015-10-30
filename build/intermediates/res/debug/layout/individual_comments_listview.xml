@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="76dp"
+    android:padding = "16dp"
+    >
+
+   <LinearLayout
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal">
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id = "@+id/username_comments"
+        android:text="Username"
+        android:textSize="16sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text = "Email Address"
+        android:textSize="16sp"
+        android:id = "@+id/email_address_comments_devotional"
+        android:layout_weight="1"
+        android:gravity="end"/>
+
+       </LinearLayout>
+
+ <TextView
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:layout_weight="1"
+     android:text = "Comments goes here"
+     android:textSize="18sp"
+     android:id = "@+id/comments_devotional"/>
+
+
+
+</LinearLayout><!-- From: file:/C:/Users/USER/Downloads/CozaSocial/app/src/main/res/layout/individual_comments_listview.xml -->

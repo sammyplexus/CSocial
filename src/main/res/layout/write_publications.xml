@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+
+    <android.support.v7.widget.CardView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:cardCornerRadius="5dp">
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:hint = "Full name"
+            android:id = "@+id/publication_fullname_text"
+            android:background = "@null"
+            />
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="4dp"
+        app:cardCornerRadius="5dp">
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="3dp"
+            android:hint = "Email Address"
+            android:id = "@+id/publication_email_address"
+            android:background = "@null"/>
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:cardCornerRadius="5dp">
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:hint = "Title"
+            android:id = "@+id/publication_title"
+            android:background = "@null"/>
+
+    </android.support.v7.widget.CardView>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        >
+
+        <android.support.v7.widget.CardView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding = "2dp"
+            android:background="#f2f2f2"
+            app:cardCornerRadius="5dp">
+
+            <EditText
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:hint = "Write up"
+                android:gravity="start"
+                android:id = "@+id/publication_text"
+                android:background = "@null"
+                android:padding="5dp"
+                />
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text = "Submit"
+        android:id = "@+id/submit_publications"
+        android:background = "#ff69b797"
+        android:textColor = "#fff"/>
+
+</LinearLayout>
+

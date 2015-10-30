@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background = "#ff69b797"
+    android:elevation="40dp"
+    android:id = "@+id/yo"
+    android:textColor = "#ffffff"
+    >
+
+
+    </android.support.v7.widget.Toolbar>
