@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="150dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background = "@drawable/background1"
+    android:padding="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:id = "@+id/editthatprofile"
+    android:onClick="startMe">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/pic"
+        android:layout_marginTop = "5dp"
+        android:layout_marginBottom = "10dp"
+        android:id = "@+id/profilepicturea"
+
+         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="..."
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:layout_margin="2dp"
+        android:textColor="#fff"
+        android:id = "@+id/usernameprofile"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textSize="12sp"
+        android:textColor = "#fff"
+        android:text = "..."
+        android:id = "@+id/emailaddressprofile"
+        />
+
+    </LinearLayout>
+
+
+</FrameLayout>
+
+<!-- From: file:/C:/Users/USER/Downloads/CozaSocial/app/src/main/res/layout/header.xml -->

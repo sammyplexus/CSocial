@@ -1,0 +1,115 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.cozasocial.Login" 
+    android:background="@drawable/loga">
+    
+    <LinearLayout
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:padding = "10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="120dp"
+        android:orientation="vertical"
+        android:background="#66ffffff"
+        android:id = "@+id/animeTest">
+         
+    
+       <LinearLayout
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+           android:orientation="vertical"
+        android:id = "@+id/layoutmain"
+
+        >
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="@string/login"
+               android:textColor="#761244"
+               android:textSize="20sp"
+               android:layout_marginBottom="10dp"
+               android:textColorHighlight="#761244"
+
+               />
+
+
+        <EditText 
+            android:layout_width = "200dp"
+            android:layout_height = "wrap_content"
+            android:hint = "@string/username"
+            android:id = "@+id/username_login"
+            android:inputType="textShortMessage"
+            android:textSize="14sp"
+            android:textColor="#761244"
+            android:drawableLeft="@drawable/user"
+            android:drawableStart = "@drawable/user"
+            android:background = "#66ffffff"
+            android:layout_marginBottom="10dp"
+            android:padding="5dp"
+
+            />
+        <EditText
+            android:layout_width = "200dp"
+            android:layout_height = "wrap_content"
+            android:hint = "@string/password"
+            android:id = "@+id/password_login"
+            android:inputType="textPassword"
+            android:textSize="14sp"
+            android:textColor="#761244"
+            android:drawableLeft = "@drawable/password"
+            android:drawableStart = "@drawable/password"
+            android:background = "#66ffffff"
+            android:padding="5dp"
+
+
+            />
+        
+        
+        
+        
+     </LinearLayout>
+
+
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layoutmain"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/register"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:text="@string/signup"
+            android:textColor="#761244"
+            android:textSize="12sp"
+			android:onClick="registeration"
+
+
+            />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:background="@null"
+            android:text="@string/login"
+            android:textColor="#761244"
+            android:textSize="12sp"
+            android:onClick="logmein"/>
+    </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
+<!-- From: file:/C:/Users/USER/Downloads/CozaSocial/app/src/main/res/layout-normal/activity_login.xml -->

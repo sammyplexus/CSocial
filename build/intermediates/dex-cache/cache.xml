@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-e8804e6baa886166f158e676674dea20c0652e18.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\library-2.4.0-85b12d8fe49f0fc1a9826020e71af229cb796cc3.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-8b68d97bc1e66c801492a27993524f1e565fa028.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b882185bdf7e01b06985ec771daafb5ee19e53d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-66bf6489a8060e72f0189c6d5c304f60cb428c9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\CozaSocial\volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="953e2386156841a861eeb82db0a7b36e656845ae">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-791d21a5de2f3eaf537e0f66b98a987383d294bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\CozaSocial\volley\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e7ec67f45015382a95f7aa7bf2ecce9628a560fa">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-791d21a5de2f3eaf537e0f66b98a987383d294bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-da7633c11fa7c77fffff83fad90a6b65b64d4053.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-a77830214e86b2c5233b99a5e38b0e19f684dbc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-e47aff5ce1591b1be3c934edc2bb2f4a1a26555a.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-66bf6489a8060e72f0189c6d5c304f60cb428c9c.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-b882185bdf7e01b06985ec771daafb5ee19e53d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-0749880af996d47c6581767b3d9c6b1a820872e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-e8804e6baa886166f158e676674dea20c0652e18.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-8dfc5e269828fe8b6b1bbd5e3330cd32c6875ac2.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-a6fc451695ac99e373d72026acc2509ec87a103b.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.facebook.shimmer\shimmer\0.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="37e257a25703e692be3f9aa9c4bf7de620e9271a">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-dd70364207f807e76fd15531d96396fbcf8a9e44.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-596b4e77fa0209008cb500ba04c21d575d754025.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-0749880af996d47c6581767b3d9c6b1a820872e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-8dfc5e269828fe8b6b1bbd5e3330cd32c6875ac2.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\1.3.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-a36408039eb9c2a8e9c638735a6356c861260530.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-a77830214e86b2c5233b99a5e38b0e19f684dbc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\USER\Downloads\CozaSocial\app\build\intermediates\pre-dexed\debug\classes-e47aff5ce1591b1be3c934edc2bb2f4a1a26555a.jar" />
+    </item>
+
+</items>

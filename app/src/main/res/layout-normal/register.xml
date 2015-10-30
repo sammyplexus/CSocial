@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.cozasocial.Login"
+    android:background = "@drawable/loga"
+
+    >
+
+       <LinearLayout
+           android:id="@+id/layoutmain"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_centerHorizontal="true"
+           android:layout_centerVertical="true"
+           android:orientation="vertical"
+           android:padding="16dp"
+           android:background="#9fff">
+
+           <EditText
+               android:id="@+id/username_signup"
+               android:layout_width="190dp"
+               android:layout_height="wrap_content"
+               android:drawableLeft="@drawable/user"
+
+               android:drawableStart="@drawable/user"
+               android:hint="@string/username"
+               android:inputType="textShortMessage"
+               android:textColor="#761244"
+               android:textSize="14sp"
+               android:background = "@null"
+               android:layout_marginBottom="10dp"
+               android:padding="5dp"/>
+
+           <EditText
+               android:id="@+id/email_signup"
+               android:layout_width="190dp"
+               android:layout_height="wrap_content"
+               android:drawableLeft="@drawable/email_address"
+               android:drawablePadding="1dp"
+               android:drawableStart="@drawable/email_address"
+               android:hint="@string/email"
+               android:inputType="textEmailAddress"
+               android:textColor="#761244"
+               android:textSize="14sp"
+               android:layout_marginBottom="10dp"
+               android:background = "@null"
+               android:padding = "5dp"
+               />
+
+           <EditText
+               android:id="@+id/password_signup"
+               android:layout_width="190dp"
+               android:layout_height="wrap_content"
+               android:drawableLeft="@drawable/password"
+               android:drawablePadding="1dp"
+               android:drawableStart="@drawable/password"
+               android:hint="@string/password"
+               android:inputType="textPassword"
+               android:textColor="#761244"
+               android:textSize="14sp"
+               android:background = "@null"
+               android:padding="5dp"/>
+
+           <TextView
+               android:id="@+id/hey"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_gravity="center" />
+
+ 
+       </LinearLayout>
+
+
+    
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/layoutmain"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="5dp"
+        android:orientation="horizontal" >
+
+        
+
+        <Button
+            android:id = "@+id/signup_register"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_margin="5dp"
+            android:text="@string/signup"
+            android:textColor="#761244"
+            android:textSize="12sp"
+            android:drawableLeft="@drawable/signupsmall"
+            android:drawableStart="@drawable/signupsmall"
+            android:background = "#66ffffff"
+			
+            />
+    </LinearLayout>
+
+</RelativeLayout>

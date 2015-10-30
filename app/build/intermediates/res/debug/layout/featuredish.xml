@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding = "16dp">
+
+<GridView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:numColumns="2"
+    android:padding = "10dp"
+    android:verticalSpacing="10dp"
+    android:horizontalSpacing="10dp"
+    android:id = "@+id/Grid"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity = "center"
+    android:background = "#6fff"
+    />
+
+    </FrameLayout>
+
+<!-- From: file:/C:/Users/USER/Downloads/CozaSocial/app/src/main/res/layout/featuredish.xml -->
