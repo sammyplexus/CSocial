@@ -1,2 +1,1 @@
-# MajorApp
-COZASocial
+
